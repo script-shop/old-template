@@ -1,7 +1,7 @@
 {
   "name": "Script Shop: App Development",
   "short_name": "Script Shop",
-  "start_url": "/index.html/?standalone=true",
+  "start_url": "/index.html",
   "description": "A place to shop to your App's content",
   "display": "standalone",
   "background_color": "#ffffff",
